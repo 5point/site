@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="18.445mm" height="17.5mm" version="1.1" viewBox="0 0 18.445471 17.500236" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <radialGradient id="radialGradient4821" cx="98.538" cy="40.468" r="29.293" gradientTransform="matrix(.11955 0 0 .12175 15.15 6.7145)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient4829" cx="162.27" cy="90.285" r="28.159" gradientTransform="matrix(.1238 0 0 .12165 12.334 4.797)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient4837" cx="135.92" cy="163.2" r="28.348" gradientTransform="matrix(.1269 0 0 .1225 13.006 1.9242)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient4845" cx="52.69" cy="163.95" r="27.214" gradientTransform="matrix(.13745 0 0 .13105 15.973 .52328)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+  <radialGradient id="radialGradient4853" cx="29.822" cy="89.907" r="26.647" gradientTransform="matrix(.13739 0 0 .13149 17.026 3.6989)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+   <stop stop-color="#fff" stop-opacity="0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(-17.462 -8.075)">
+  <path transform="matrix(.084226 0 0 .082767 17.908 5.3044)" d="m147.64 201.22-84.611 0.0404-26.185-80.457 68.428-49.766 68.476 49.7z" fill="none" stroke="#fff" stroke-width="3.165"/>
+  <g>
+   <ellipse cx="30.254" cy="21.915" rx="3.5974" ry="3.4725" fill="url(#radialGradient4837)"/>
+   <ellipse cx="23.215" cy="22.009" rx="3.7407" ry="3.5664" fill="url(#radialGradient4845)"/>
+   <ellipse cx="32.422" cy="15.78" rx="3.486" ry="3.4256" fill="url(#radialGradient4829)"/>
+   <ellipse cx="21.124" cy="15.521" rx="3.6611" ry="3.5038" fill="url(#radialGradient4853)"/>
+   <ellipse cx="21.044" cy="15.445" rx="1.5759" ry="1.5329" fill="#fff"/>
+   <ellipse transform="matrix(.99982 -.018872 .020365 .99979 0 0)" cx="26.685" cy="11.96" rx="1.5599" ry="1.5017" fill="#fff"/>
+   <ellipse cx="26.93" cy="11.641" rx="3.5019" ry="3.5664" fill="url(#radialGradient4821)"/>
+  </g>
+  <g fill="#fff">
+   <ellipse cx="30.235" cy="21.821" rx="1.6554" ry="1.5955"/>
+   <ellipse cx="23.228" cy="21.862" rx="1.5759" ry="1.5486"/>
+   <ellipse cx="32.505" cy="15.605" rx="1.544" ry="1.5173"/>
+  </g>
+ </g>
+</svg>
